@@ -1,6 +1,9 @@
-Abhinav Sikhwal
+# Abhinav Sikhwal
+
 ML Engineer & Applied Researcher · Berlin, Germany
+
 MSc Data Science, AI & Digital Business
+
 I develop computational methods that extract structured, interpretable knowledge from complex biological, legal, and cultural datasets — combining NLP, graph learning, and multi-modal machine learning to build systems that are both scientifically rigorous and practically deployable.
 
 Research Interests
